@@ -2,14 +2,14 @@
   "configVersion": "v2",
   "app": {
     "appId": 28964,
-    "appName": "WDWFBand7Gr",
+    "appName": "Classic WD mBnd7",
     "appType": "watchface",
     "version": {
       "code": 1,
       "name": "1.0.0"
     },
-    "vender": "bigdigital",
-    "description": "timer watchface band7 graph",
+    "vender": "nimrod100",
+    "description": "miband7 Watchdrip Classic",
     "icon": "images/preview.png"
   },
   "runtime": {
@@ -34,19 +34,35 @@
       },
       "platforms": [
         {
-          "name": "band71",
-          "deviceSource": 252
+            "deviceSource": 260,
+            "name": "l66"
         },
         {
-          "name": "band72",
-          "deviceSource": 253
+            "deviceSource": 261,
+            "name": "l66w"
         },
         {
-          "name": "band73",
-          "deviceSource": 254
+            "deviceSource": 262,
+            "name": "l66_1"
+        },
+        {
+            "deviceSource": 263,
+            "name": "l66w_2"
+        },
+        {
+            "deviceSource": 264,
+            "name": "l66_3"
+        },
+        {
+            "deviceSource": 265,
+            "name": "l66_4"
+        },
+        {
+            "deviceSource": 266,
+            "name": "l66_5"
         }
       ],
-      "designWidth": 194
+      "designWidth": 192
 	}
   },
   "i18n": {
